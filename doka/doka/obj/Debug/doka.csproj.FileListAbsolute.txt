@@ -1,0 +1,12 @@
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\bin\Debug\doka.exe.config
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\bin\Debug\doka.exe
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\bin\Debug\doka.pdb
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\obj\Debug\doka.csprojResolveAssemblyReference.cache
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\obj\Debug\doka.FormAuthorization.resources
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\obj\Debug\doka.Properties.Resources.resources
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\obj\Debug\doka.csproj.GenerateResource.Cache
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\obj\Debug\doka.csproj.CoreCompileInputs.cache
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\obj\Debug\doka.exe
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\obj\Debug\doka.pdb
+C:\Users\angry\OneDrive\c#\DokaWpfApp\doka\doka\obj\Debug\doka.MainWormCrm.resources
